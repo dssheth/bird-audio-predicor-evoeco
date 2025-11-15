@@ -1,0 +1,19 @@
+requests
+joblib
+numpy
+pandas
+seaborn
+scikit-learn
+matplotlib
+librosa
+tqdm 
+soundfile
+gradio
+streamlit
+Pillow
+tensorflow 
+tensorflow-hub
+torch 
+
+#conda install -c conda-forge ffmpeg -y
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
